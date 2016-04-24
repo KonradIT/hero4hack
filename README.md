@@ -14,7 +14,7 @@ Like in autoexechack, here there are hacks that aim to extend the funtionality o
 
 ####What commands are available?
 
-The GoPro HERO4 firmware has a file called gpsend that calls a HERO2/H3/H3+ WiFi command when executed with the right parameter. Ḧere is a list of H2/H3/H3+ commands: http://github.com/konradit/goprowifihack/blob/master/WiFi-Commands.mkdn
+The GoPro HERO4 firmware has a file called gpsend that calls a HERO2/H3/H3+ WiFi command when executed with the right parameter. Ḧere is a list of H2/H3/H3+ commands: https://github.com/KonradIT/goprowifihack/blob/master/HERO3/WifiCommands.md
 
 The file gpsend is in /usr/local/gopro/bin/
 
