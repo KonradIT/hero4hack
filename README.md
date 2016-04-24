@@ -64,8 +64,8 @@ The cal.txt works on the latest Firmware (2.00)
 
 ####Commands available:
 
-_tapp (t app)
-_tcal (t cal)
-_buzz
+* _tapp (t app)
+* _tcal (t cal)
+* _buzz
 
 
